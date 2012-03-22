@@ -11,7 +11,7 @@ The above copyright notice and this permission notice shall be included in all c
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
 This script is designed to add :before and :after support to legacy versions of IE (7 and 6)
-To use it, add the script to your HTML page(s) and then simply call the before-after() function. No additional configuration is required/available
+To use it, add the script to your HTML page(s) and then simply call the beforeafter() function. No additional configuration is required/available
 jQuery *is* a requirement at present, please include it before the source file for before-after.js
 
 *note - this script will process *all* attached style sheets looking for :before and/or :after declarations. If you have a ton of style sheets attached to the page this will impact performance.
